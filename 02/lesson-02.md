@@ -70,7 +70,8 @@ The word *folder* refers to the same thing as *directory*.
 
 #### Shell ####
 
-What is a shell? Quoted from [wikipedia]()
+What is a shell? Quoted from
+[wikipedia](http://en.wikipedia.org/wiki/Shell_%28computing%29)
 
 >    In computing, a shell is a user interface for access to for access to an
 >    operating system's services. ...

@@ -28,6 +28,7 @@ Try the following in *Microsoft Word* or *Kingsoft WPS*; type some words first
 + `ctrl` + `l`
 
 Do move your hand to your mouse if you can submit a form with the key `enter`.
+
 =======================================
 
 #### Path ####
@@ -114,10 +115,10 @@ very likely this is the name (or path) of the file to be opened by the program.
 By typing `python hello.py`, you launch Python interpreter and pass argument
 `hello.py` to it. Python interpreter will open `hello.py`; then interprete it
 and run it.
-=======================================
-
-
 
 =======================================
+
+
+
 =======================================
 

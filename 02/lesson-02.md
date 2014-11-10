@@ -83,6 +83,7 @@ exclusively. For Windows, *CMD* the default option; for GNU/Linux and Mac OS X,
 *Bash* is the mostly used.
 
 *IPython* is also a shell.
+
 =======================================
 
 #### Run a Python script ####

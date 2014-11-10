@@ -62,7 +62,7 @@ Paths used in GNU/Linux or Mac OS X look like
     /usr/bin/python
 
 where forword slashes are always used, and there are no such concept called
-drive letter, and root directory is simply represented by `/`.
+drive letter, and root directory is simply represented by the leading `/`.
 
 The word *folder* refers to the same thing as *directory*.
 

@@ -65,6 +65,7 @@ where forword slashes are always used, and there are no such concept called
 drive letter, and root directory is simply represented by `/`.
 
 The word *folder* refers to the same thing as *directory*.
+
 =======================================
 
 #### Shell ####

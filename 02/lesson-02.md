@@ -111,7 +111,7 @@ You see *notepad* launched. Now try
 
     notepad hello.py
 
-You see *notepad* launched with file `hello.py`. So you see this mini syntax.
+You see *notepad* launched with file `hello.py` opened. So you see this mini syntax.
 The first part if the program name, the second is an argument to the program;
 very likely this is the name (or path) of the file to be opened by the program.
 

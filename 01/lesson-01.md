@@ -17,8 +17,6 @@ Please download `Anaconda3` since I will use Python 3 in the rest of my
 tutorials.
 
 Unzip the downloaded file and run the installer. You can handle it yourself.
-
-
 =======================================
 
 #### Play Around ####
@@ -84,7 +82,6 @@ and `cos`.
 Note the numbers in brackets after `In` or `Out`. These are auto-incremental. So
 yours might be different from mine if you are not following my examples exactly.
 In future examples, I will use `In [#]` and `Out[#]` to make my life easier.
-
 =======================================
 
 #### A Simple Plot ####

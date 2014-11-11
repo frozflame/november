@@ -119,9 +119,60 @@ By typing `python hello.py`, you launch Python interpreter and pass argument
 `hello.py` to it. Python interpreter will open `hello.py`; then interprete it
 and run it.
 
+Learn a new trick call output redirect. Simply
+
+    python hello.py > output.txt
+
+Then open the file `output.txt`.
+
+One more thing to understand: when you do `notepad hello.py` or `python
+hello.py`, you **explicitly** choose the program to handle the file, so the
+extension `.py` does NOT imply the type of that file. You can change `hello.py`
+to `hello.abc` or `hello.txt`, and run
+
+    python hello.txt
+
+You get exactly the same result. 
+
+This is different from clicking an icon in Windows Explorer (`Computer` or `My
+Computer`), which looks the extension to guess file type, and launches the
+corresponding program to handle the file.
+
+Try open a file with `arglist.exe`.
+
 =======================================
 
+#### Simple HTTP Server ####
 
+Try in shell
+
+    python -m http.server 5000
+
+If you are using Python 2, you should do
+
+    python -m SimpleHTTPServer 5000
+
+Now go to your web browser, type the following in the address bar
+
+    localhost:5000
+
+If you have the privilege, you can open you server at port 80
+
+    python -m http.server 80
+
+Then you don't need to specify the port number to your browser
+
+    localhost
+
+It will work. 
+
+Create a file named `index.html` at your current working directory, and put some
+contents in it. Try opening the server again, see the result.
+
+Create a local network and practice these using two computers (two hosts). You
+type the IP address of the server instead of `localhost` in your browser. e.g.
+
+    192.168.0.12:5000
 
 =======================================
 

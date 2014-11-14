@@ -124,4 +124,10 @@ Ruby, among other languages.
 
 =======================================
 
+#### More Keyboard Shortcuts ####
+
+Select a file or folder in your Windows File Manager (Explorer, or Computer, or
+My Computer), then press `F2`. Rename.
+
+Try `F3` and `F4`.
 

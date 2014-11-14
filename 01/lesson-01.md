@@ -113,3 +113,10 @@ unfinished figure. You signal `show()` when you know your job is done.
 
 I hope you have learned something. Enjoy! 
 
+=======================================
+
+#### What can I do now? ####
+
++ use IPython as a scientific calculator 
++ very basic plots
+

@@ -2,14 +2,6 @@
 Lesson 4
 --------
 
-Today we talk about logic control.
-
-
-
-
-
-
-
 Let's loop. But wait. Python is different.
 
 #### List ####
@@ -53,6 +45,8 @@ contiguous portion of an existing list.
     names[:3]
     names[1:]
 
+Note that `a:b` selects items with 
+
 =======================================
 
 #### for-loop ####
@@ -78,19 +72,4 @@ Here, `range(1000)` returns a list-like object, which behaves almost identical
 to `[0, 1, 2, ..., 999]`. Note that 0 is included but 1000 is not.
 
 =======================================
-
-#### True or False ####
-
-Similar to many other languages, including C/C++, Python has while-loops.
-
-    while <condition>:
-        ...
-         
-
-
-
-In Python, all integers except 0 is considered True
-
-
-
 
